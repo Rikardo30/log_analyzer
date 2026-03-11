@@ -1,0 +1,12 @@
+# Generated log file
+auth.log
+
+# Secret credentials
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
