@@ -1,6 +1,6 @@
 #A simple Api alerting script using a telegram bot
 #Make sure to keep your token and chat id separate in an ignored file to protect your data
-#The next goal is to move over to slack instead of telegram in order to have a more profesional environment
+#The next goal is to move over to slack instead of telegram in order to have a more professional environment
 
 #Allows us to pull sensitive data from our .env file
 from dotenv import load_dotenv
